@@ -18,7 +18,7 @@ These datasets simulate real-world streaming operations.
 ---
 
 📊 **ER Diagram:**  
-![ER Diagram](images/ER_Diagram.png)
+![ER Diagram](images/ER_Diagram_.png)
 This diagram illustrates the relationship between content, consumption, rating, and subscription data.
 
 
